@@ -92,7 +92,7 @@ function getDragSection(location){
 }
 
 var lastSection = 0;
-
+/*
 document.observe("dom:loaded", function() {
 
   new Draggable('handler', {
@@ -133,4 +133,4 @@ document.observe("dom:loaded", function() {
   })
 
 });
-
+*/
